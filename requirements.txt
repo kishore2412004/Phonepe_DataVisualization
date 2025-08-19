@@ -174,7 +174,7 @@ nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
 notebook @ file:///tmp/build/80754af9/notebook_1645002532094/work
 numba @ file:///opt/conda/conda-bld/numba_1648040517072/work
 numexpr @ file:///tmp/build/80754af9/numexpr_1640689833592/work
-numpy==1.22.4
+numpy==2.0.2
 numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
